@@ -2,7 +2,7 @@
 I've been practicing Solidity programming by solving [problems from DApp World](https://dapp-world.com/problems).
 
 ## Number of solved problems  
-As of now (12 Dec 2024), I solved 23 out of 59 problems.  
+As of now (14 Dec 2024), I solved 29 out of 59 problems, however, the site shows 28 for unknown reasons. 
   
 ![](./number-of-solved-problems.png)
 
@@ -34,3 +34,9 @@ Below is the list of solved problmes in chronological order.
 |[52.Gavin and the chocolate shop (Easy version)](https://dapp-world.com/problem/gavin-and-chocolate-shop-MnRf/problem)|12 Dec 2024 10:31:58||
 |[53.Gavin and the chocolate shop (Hard version)](https://dapp-world.com/problem/gavin-and-chocolate-shop-2/problem)|12 Dec 2024 11:00:57||
 |[45.Dinesh and Gambling](https://dapp-world.com/problem/dinesh-and-gambling-Aiqd/problem)|12 Dec 2024 15:37:55|`findSecondLargest` function finds the largest and the second largest values by iterating the array only once.|
+|[42.Jared and Maths Homework](https://dapp-world.com/problem/jared-and-maths-askj/problem)|13 Dec 2024 13:32:13|After submitting a solution, you may notice that parts of the problem statement are not correct.|
+|[57.Diamond tracking (Easy version)](https://dapp-world.com/problem/diamond-tracking-easy-UiSr/problem)|13 Dec 2024 14:24:19||
+|[55.Smart ranking (Easy version)](https://dapp-world.com/problem/smart-ranking-easy-MeDf/problem)|13 Dec 2024 14:58:48||
+|[59.Maximum profit](https://dapp-world.com/problem/max-profit-IuGc/problem)|13 Dec 2024 15:58:30|I checked the submission, where the last two test cases are not for this problem, which is weird.|
+|[56.Smart ranking (Hard version)](https://dapp-world.com/problem/smart-ranking-hard-HeKh/problem)|14 Dec 2024 15:45:55||
+|[58.Diamond tracking (Hard version)](https://dapp-world.com/problem/diamond-tracking-hard-InDt/problem)|14 Dec 2024 18:39:47||
