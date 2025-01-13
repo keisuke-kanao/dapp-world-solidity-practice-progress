@@ -2,7 +2,7 @@
 I've been practicing Solidity programming by solving [problems from DApp World](https://dapp-world.com/problems).
 
 ## Number of solved problems  
-As of now (16 Dec 2024), I solved 32 out of 59 problems, however, the site shows 31 for unknown reasons. 
+As of now (13 Jan 2025), I solved 36 out of 59 problems, however, the site shows 35 for unknown reasons. 
   
 ![](./number-of-solved-problems.png)
 
@@ -43,3 +43,7 @@ Below is the list of solved problmes in chronological order.
 |[54.Smart Contract Solution for Buying Colors within Credit Limits](https://dapp-world.com/problem/smart-contract-solution-for-buying-colors-within-credit-limits/problem)|15 Dec 2024 10:37:04||
 |[21.ERC-20 Token](https://dapp-world.com/problem/token-erc20/problem)|16 Dec 2024 16:43:43|Wrote ERC-20 token contract without using [OpenZeppelin ERC20 contract](https://docs.openzeppelin.com/contracts/4.x/api/token/erc20), and wrote functions specified in the problem.|
 |[17.Decimal to Binary - Hard](https://dapp-world.com/problem/decimal-to-binary-2/problem)|16 Dec 2024 18:33:13|When my solution was submitted, the last two test cases were hidden.|
+|[32.Bus Ticket](https://dapp-world.com/problem/bus-ticket-1/problem)|13 Jan 2025 13:28:32||
+|[38.DAO Membership - Easy](https://dapp-world.com/problem/dao-membership-easy/problem)|13 Jan 2025 13:56:43||
+|[14.Cryptocurrency Round Trip](https://dapp-world.com/problem/cryptocurrency-round-trip/problem)|13 Jan 2025 14:08:50||
+|[37.DAO Membership - Hard](https://dapp-world.com/problem/dao-membership-hard/problem)|13 Jan 2025 16:42:22||
