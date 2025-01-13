@@ -2,7 +2,7 @@
 I've been practicing Solidity programming by solving [problems from DApp World](https://dapp-world.com/problems).
 
 ## Number of solved problems  
-As of now (13 Jan 2025), I solved 36 out of 59 problems, however, the site shows 35 for unknown reasons. 
+As of now (13 Jan 2025), I solved 38 out of 59 problems, however, the site shows 37 for unknown reasons. 
   
 ![](./number-of-solved-problems.png)
 
@@ -47,3 +47,5 @@ Below is the list of solved problmes in chronological order.
 |[38.DAO Membership - Easy](https://dapp-world.com/problem/dao-membership-easy/problem)|13 Jan 2025 13:56:43||
 |[14.Cryptocurrency Round Trip](https://dapp-world.com/problem/cryptocurrency-round-trip/problem)|13 Jan 2025 14:08:50||
 |[37.DAO Membership - Hard](https://dapp-world.com/problem/dao-membership-hard/problem)|13 Jan 2025 16:42:22||
+|[41.Shipment Service (easy)](https://dapp-world.com/problem/shipment-service-easy/problem)|13 Jan 2025 18:44:03||
+|[40.Shipment Service (hard)](https://dapp-world.com/problem/shipment-service-hard/problem)|13 Jan 2025 19:17:19||
