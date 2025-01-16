@@ -2,7 +2,7 @@
 I've been practicing Solidity programming by solving [problems from DApp World](https://dapp-world.com/problems).
 
 ## Number of solved problems  
-As of now (13 Jan 2025), I solved 38 out of 59 problems, however, the site shows 37 for unknown reasons. 
+As of now (16 Jan 2025), I solved 42 out of 59 problems, however, the site shows 41 for unknown reasons. 
   
 ![](./number-of-solved-problems.png)
 
@@ -49,3 +49,7 @@ Below is the list of solved problmes in chronological order.
 |[37.DAO Membership - Hard](https://dapp-world.com/problem/dao-membership-hard/problem)|13 Jan 2025 16:42:22||
 |[41.Shipment Service (easy)](https://dapp-world.com/problem/shipment-service-easy/problem)|13 Jan 2025 18:44:03||
 |[40.Shipment Service (hard)](https://dapp-world.com/problem/shipment-service-hard/problem)|13 Jan 2025 19:17:19||
+|[44.Scholarship Credit System - Easy](https://dapp-world.com/problem/scholarship-credit-system-easy-LJgj/problem)|15 Jan 2025 16:19:07||
+|[43.Scholarship Credit System - Hard](https://dapp-world.com/problem/scholarship-credit-system-hard-LFgj/problem)|16 Jan 2025 06:25:38||
+|[8.DAO Voting](https://dapp-world.com/problem/dao-voting/problem)|16 Jan 2025 13:46:16|Needed some trials and errors to clarify edge conditions and handle them appropriately.|
+|[26.Automatic Lottery System - Easy](https://dapp-world.com/problem/lottery-problem/problem)|16 Jan 2025 14:06:24||
