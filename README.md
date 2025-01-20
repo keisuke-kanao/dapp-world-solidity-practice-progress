@@ -2,7 +2,7 @@
 I've been practicing Solidity programming by solving [problems from DApp World](https://dapp-world.com/problems).
 
 ## Number of solved problems  
-As of now (16 Jan 2025), I solved 43 out of 59 problems, however, the site shows 42 for unknown reasons. 
+As of now (16 Jan 2025), I solved 45 out of 59 problems, however, the site shows 44 for unknown reasons. 
   
 ![](./number-of-solved-problems.png)
 
@@ -54,3 +54,6 @@ Below is the list of solved problmes in chronological order.
 |[8.DAO Voting](https://dapp-world.com/problem/dao-voting/problem)|16 Jan 2025 13:46:16|Needed some trials and errors to clarify edge conditions and handle them appropriately.|
 |[26.Automatic Lottery System - Easy](https://dapp-world.com/problem/lottery-problem/problem)|16 Jan 2025 14:06:24|Used a common way to generate pseudo random numbers with `keccak256` function.|
 |[25.Automatic Lottery System - Hard](https://dapp-world.com/problem/lottery-problem-2/problem)|16 Jan 2025 15:30:46|Used a common way to generate pseudo random numbers with `keccak256` function.|
+|[23.Token sale easy](https://dapp-world.com/problem/token-sale-easy/problem)|20 Jan 2025 15:38:04|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score.) |
+|[22.Token sale hard](https://dapp-world.com/problem/token-sale-hard/problem)|20 Jan 2025 16:54:22|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score.) |
+
