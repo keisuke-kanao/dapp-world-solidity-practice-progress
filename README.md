@@ -2,7 +2,7 @@
 I've been practicing Solidity programming by solving [problems from DApp World](https://dapp-world.com/problems).
 
 ## Number of solved problems  
-As of now (22 Jan 2025), I solved 49 out of 59 problems, however, the site shows 48 for unknown reasons. 
+As of now (26 Jan 2025), I solved 50 out of 59 problems, however, the site shows 49 for unknown reasons. 
   
 ![](./number-of-solved-problems.png)
 
@@ -60,4 +60,5 @@ Below is the list of solved problmes in chronological order.
 |[10.Crowdfunding - Hard](https://dapp-world.com/problem/crowdfunding/problem)|21 Jan 2025 13:35:34||
 |[47.Gavin and the bookstore](https://dapp-world.com/problem/gavin-and-bookstore-SggR/problem)|21 Jan 2025 15:36:41||
 |[16.Auction](https://dapp-world.com/problem/auction/problem)|22 Jan 2025 16:37:36||
+|[7.Yeild Farming](https://dapp-world.com/problem/yeild-farming/problem)|26 Jan 2025 10:32:02|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score). |
 
