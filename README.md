@@ -2,7 +2,7 @@
 I've been practicing Solidity programming by solving [problems from DApp World](https://dapp-world.com/problems).
 
 ## Number of solved problems  
-As of now (29 Jan 2025), I solved 52 out of 59 problems, however, the site shows 50 for unknown reasons. 
+As of now (29 Jan 2025), I solved 54 out of more than 59 problems, however, the site shows 52 for unknown reasons. 
   
 ![](./number-of-solved-problems.png)
 
@@ -63,3 +63,6 @@ Below is the list of solved problmes in chronological order.
 |[7.Yeild Farming](https://dapp-world.com/problem/yeild-farming/problem)|26 Jan 2025 11:33:37|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score). |
 |[13.Decentralised Roulette](https://dapp-world.com/problem/decentralised-roulette/problem)|27 Jan 2025 18:13:49||
 |[46.Dapp World's got Talent](https://dapp-world.com/problem/dapp-worlds-got-talent-Psot/problem)|29 Jan 2025 04:11:56|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score). |
+|[Calculate Fare](https://dapp-world.com/problem/calculate-fare-cvbn/problem)|29 Jan 2025 04:53:08||
+|[Club referral system](https://dapp-world.com/problem/club-referal-sys-osnr/problem)|29 Jan 2025 16:09:54||
+
