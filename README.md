@@ -2,7 +2,7 @@
 I've been practicing Solidity programming by solving [problems from DApp World](https://dapp-world.com/problems).
 
 ## Number of solved problems  
-As of now (29 Jan 2025), I solved 54 out of more than 59 problems, however, the site shows 52 for unknown reasons. 
+As of now (31 Jan 2025), I solved 56 out of more than 59 problems, however, the site shows 54 for unknown reasons. 
   
 ![](./number-of-solved-problems.png)
 
@@ -54,15 +54,16 @@ Below is the list of solved problmes in chronological order.
 |[8.DAO Voting](https://dapp-world.com/problem/dao-voting/problem)|16 Jan 2025 13:46:16|Needed some trials and errors to clarify edge conditions and handle them appropriately.|
 |[26.Automatic Lottery System - Easy](https://dapp-world.com/problem/lottery-problem/problem)|16 Jan 2025 14:06:24|Used a common way to generate pseudo random numbers with `keccak256` function.|
 |[25.Automatic Lottery System - Hard](https://dapp-world.com/problem/lottery-problem-2/problem)|16 Jan 2025 15:30:46|Used a common way to generate pseudo random numbers with `keccak256` function.|
-|[23.Token sale easy](https://dapp-world.com/problem/token-sale-easy/problem)|20 Jan 2025 15:38:04|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score). |
-|[22.Token sale hard](https://dapp-world.com/problem/token-sale-hard/problem)|20 Jan 2025 16:54:22|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score). |
+|[23.Token sale easy](https://dapp-world.com/problem/token-sale-easy/problem)|20 Jan 2025 15:38:04|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score).|
+|[22.Token sale hard](https://dapp-world.com/problem/token-sale-hard/problem)|20 Jan 2025 16:54:22|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score).|
 |[11.Crowdfunding - Easy](https://dapp-world.com/problem/crowdfunding-easy/problem)|20 Jan 2025 18:54:33||
 |[10.Crowdfunding - Hard](https://dapp-world.com/problem/crowdfunding/problem)|21 Jan 2025 13:35:34||
 |[47.Gavin and the bookstore](https://dapp-world.com/problem/gavin-and-bookstore-SggR/problem)|21 Jan 2025 15:36:41||
 |[16.Auction](https://dapp-world.com/problem/auction/problem)|22 Jan 2025 16:37:36||
-|[7.Yeild Farming](https://dapp-world.com/problem/yeild-farming/problem)|26 Jan 2025 11:33:37|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score). |
+|[7.Yeild Farming](https://dapp-world.com/problem/yeild-farming/problem)|26 Jan 2025 11:33:37|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score).|
 |[13.Decentralised Roulette](https://dapp-world.com/problem/decentralised-roulette/problem)|27 Jan 2025 18:13:49||
-|[46.Dapp World's got Talent](https://dapp-world.com/problem/dapp-worlds-got-talent-Psot/problem)|29 Jan 2025 04:11:56|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score). |
+|[46.Dapp World's got Talent](https://dapp-world.com/problem/dapp-worlds-got-talent-Psot/problem)|29 Jan 2025 04:11:56|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score).|
 |[Calculate Fare](https://dapp-world.com/problem/calculate-fare-cvbn/problem)|29 Jan 2025 04:53:08||
 |[Club referral system](https://dapp-world.com/problem/club-referal-sys-osnr/problem)|29 Jan 2025 16:09:54||
-
+|[35.Team Wallet - Easy](https://dapp-world.com/problem/team-wallet-easy/problem)|30 Jan 2025 22:59:35|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score).|
+|[34.Team Wallet - Hard](https://dapp-world.com/problem/team-wallet-hard/problem)|31 Jan 2025 14:36:06|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score).|
