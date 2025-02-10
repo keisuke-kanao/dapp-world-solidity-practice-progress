@@ -2,7 +2,7 @@
 I've been practicing Solidity programming by solving [problems from DApp World](https://dapp-world.com/problems).
 
 ## Number of solved problems  
-As of now (7 Feb 2025), I solved 59 out of more than 59 problems, however, the site shows 57 for unknown reasons. 
+As of now (10 Feb 2025), I solved 59 out of more than 59 problems, however, the site shows 57 for unknown reasons. 
   
 ![](./number-of-solved-problems.png)
 
