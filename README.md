@@ -2,7 +2,7 @@
 I've been practicing Solidity programming by solving [problems from DApp World](https://dapp-world.com/problems).
 
 ## Number of solved problems  
-As of now (3 Feb 2025), I solved 57 out of more than 59 problems, however, the site shows 55 for unknown reasons. 
+As of now (7 Feb 2025), I solved 59 out of more than 59 problems, however, the site shows 57 for unknown reasons. 
   
 ![](./number-of-solved-problems.png)
 
@@ -68,3 +68,6 @@ Below is the list of solved problmes in chronological order.
 |[35.Team Wallet - Easy](https://dapp-world.com/problem/team-wallet-easy/problem)|30 Jan 2025 22:59:35|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score).|
 |[34.Team Wallet - Hard](https://dapp-world.com/problem/team-wallet-hard/problem)|31 Jan 2025 14:36:06|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score).|
 |[31.Blockchain Gaming Ecosystem](https://dapp-world.com/problem/blockchain-gaming-ecosystem/problem)|3 Feb 2025 21:13:57|At the time when my solution was passed, I was at the top rank with all test cases passed and less gas consumption.|
+|[29.Solah Parchi Thap - Easy](https://dapp-world.com/problem/solah-parchi-thap-easy/problem)|7 Feb 2025 19:50:21|At the time when my solution was passed, I was at the top rank with all test cases passed and less gas consumption.|
+|[28.Solah Parchi Thap - Hard](https://dapp-world.com/problem/solah-parchi-thap-hard/problem)|10 Feb 2025 19:30:33|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score).|
+
