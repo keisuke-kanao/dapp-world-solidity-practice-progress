@@ -2,7 +2,7 @@
 I've been practicing Solidity programming by solving [problems from DApp World](https://dapp-world.com/problems).
 
 ## Number of solved problems  
-As of now (11 Feb 2025), I solved 61 out of more than 59 problems, however, the site shows 59 for unknown reasons. 
+As of now (13 Feb 2025), I solved 62 out of more than 59 problems, however, the site shows 60 for unknown reasons. 
   
 ![](./number-of-solved-problems.png)
 
@@ -72,3 +72,4 @@ Below is the list of solved problmes in chronological order.
 |[28.Solah Parchi Thap - Hard](https://dapp-world.com/problem/solah-parchi-thap-hard/problem)|10 Feb 2025 19:30:33|At the time when my solution was passed, I was the only one who passed all test cases (and thus got the best score).|
 |[Compare strings](https://dapp-world.com/problem/compare-strings-vbnm/problem)|11 Feb 2025 08:52:23|This problem is the same as [3.Compare Strings](https://dapp-world.com/problem/compare-strings/problem).|
 |[Ethereum transactions with smart contract](https://dapp-world.com/problem/ethereum-transactions-with-smart-contract-owjf/problem)|11 Feb 2025 18:28:51||
+|[LibraryGuard](https://dapp-world.com/problem/library-guard/problem)|13 Feb 2025 18:41:51||
